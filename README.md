@@ -1,9 +1,13 @@
 [Website Link](https://zaraclothing.netlify.app)
 
 
+
+
 #HomePage
 
 ![Home Page](https://user-images.githubusercontent.com/103638897/219384325-c64691e8-2692-45b3-8af5-35c50306f166.png)
+
+
 
 
 #SignUp And SignIn
@@ -13,9 +17,13 @@
 
 
 
+
+
 #Cart Page
 
 ![Cart Page](https://user-images.githubusercontent.com/103638897/219384665-846a00ef-cdda-47d4-aa36-65e388f26b1b.png)
+
+
 
 
 
